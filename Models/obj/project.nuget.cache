@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eg3gX63hS2z8xxhIt+bP0iuc6yb0aOBYWN5mbp3L85YCZpesgSmflkKMd0ofYdY4vouHBdVoykDJ1Bsdv/Pm8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PJSalluca\\Desktop\\Temporales\\WinFormsAppHotel\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PJSalluca\\.nuget\\packages\\chart.js\\3.7.1\\chart.js.3.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
